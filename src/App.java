@@ -5,7 +5,7 @@ public class App {
         System.out.println("    J    A A   V     V   A  A");
         System.out.println("    J   A   A   V   V   A    A");
         System.out.println("J   J  AAAAAAA   V V   AAAAAAAA");
-        System.out.println("J J J A       A   V   A        A");
+        System.out.println(" j  J A       A   V   A        A");
         
     }
 }
