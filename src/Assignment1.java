@@ -1,10 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception { 
-        System.out.println("    J     A   V       V   A");
-        System.out.println("    J    A A   V     V   A  A");
-        System.out.println("    J   A   A   V   V   A    A");
-        System.out.println("J   J  AAAAAAA   V V   AAAAAAAA");
-        System.out.println(" j  J A       A   V   A        A");
-        
+        String logo = "     J    A    V     V     A \n" +
+                      "     J   A A    V   V     A A \n" +
+                      "J    J  AAAAA    V V     AAAAA \n" +
+                      " J  J  A     A    V     A     A";
+        System.out.println(logo);
     }
 }
