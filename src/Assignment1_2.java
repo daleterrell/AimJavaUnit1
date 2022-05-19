@@ -1,9 +1,11 @@
-public class Assignment1_3 {
+public class Main 
+{
     public static void main(String[] args) { 
-        System.out.print("    Kyle Schulz");
-        System.out.print("    Java Web");
-        System.out.print("    Omaha, NE");
-        System.out.print("    Apple Crisp Pie");
+        String s =  "    Kyle Schulz\n" +
+                    "    Java Web\n" +
+                    "    Omaha, NE\n" +
+                    "    Apple Crisp Pie";
+        System.out.println(s);
     }   
 }
 
